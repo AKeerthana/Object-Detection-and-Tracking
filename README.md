@@ -1,0 +1,2 @@
+# Object-Detection-and-Tracking
+Project developed in python to develop an object detection system using OpenCV software. The main functionalities displayed in this project include Object Detection based on color that is to classify objects in images according to colour , Pedestrian detection  , Human face detection, Vehicle motion Detection from a video file which can be used to detect traffic in a particular area.
